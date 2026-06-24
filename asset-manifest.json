@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/static/css/main.eacc31e1.css",
+    "main.js": "/static/js/main.d5ae002e.js",
+    "static/js/544.2b852193.chunk.js": "/static/js/544.2b852193.chunk.js",
+    "static/media/qr-scanner-worker.min.js": "/static/media/qr-scanner-worker.min.11136fec90f750fb962e.js",
+    "index.html": "/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.eacc31e1.css",
+    "static/js/main.d5ae002e.js"
+  ]
+}
